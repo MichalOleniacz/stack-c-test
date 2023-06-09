@@ -1,0 +1,18 @@
+﻿  interface.cpp
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(34): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(34): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(34): note: the missing variadic argument 2 is required by format string '%s'
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(34): note: this argument is used as a buffer size
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(35): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(35): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(35): note: the missing variadic argument 2 is required by format string '%s'
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(35): note: this argument is used as a buffer size
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(130): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(130): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(130): note: the missing variadic argument 2 is required by format string '%s'
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(130): note: this argument is used as a buffer size
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(140): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(140): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(140): note: the missing variadic argument 2 is required by format string '%s'
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(140): note: this argument is used as a buffer size
+  MichalOleniaczProjekt.vcxproj -> X:\jipp\MichalOleniaczProjekt\Debug\MichalOleniaczProjekt.exe

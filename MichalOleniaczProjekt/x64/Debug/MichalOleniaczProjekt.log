@@ -1,0 +1,21 @@
+﻿  interface.cpp
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(35): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(35): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(35): note: the missing variadic argument 2 is required by format string '%s'
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(35): note: this argument is used as a buffer size
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(43): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(43): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(43): note: the missing variadic argument 2 is required by format string '%s'
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(43): note: this argument is used as a buffer size
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(135): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(135): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(135): note: the missing variadic argument 2 is required by format string '%s'
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(135): note: this argument is used as a buffer size
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(145): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(145): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(145): note: the missing variadic argument 2 is required by format string '%s'
+  x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\interface.cpp(145): note: this argument is used as a buffer size
+  student.cpp
+  Generating Code...
+x:\jipp\michaloleniaczprojekt\michaloleniaczprojekt\student.cpp(60): warning C4715: 'getStudyFieldName': not all control paths return a value
+  MichalOleniaczProjekt.vcxproj -> X:\jipp\MichalOleniaczProjekt\x64\Debug\MichalOleniaczProjekt.exe
